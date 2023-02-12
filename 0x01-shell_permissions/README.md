@@ -1,1 +1,1 @@
-Contains different scripts for the 0x01. Shell permissions projects
+The directory contains several scripts for the 0x01 Shell, permissions project
